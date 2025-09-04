@@ -1,0 +1,13 @@
+
+*{
+    margin: 0px;
+    padding: opx;
+    box-sizing: border-box;
+}
+.box{
+    color: blue;
+    background-color: black;
+    font-size: 50%;
+    align-items: center;
+    
+}
