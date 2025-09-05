@@ -3,11 +3,17 @@
     margin: 0px;
     padding: opx;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: black; */
 }
-.box{
-    color: blue;
+.h1{
+    color:green;
     background-color: black;
     font-size: 50%;
-    align-items: center;
+    text-align: center;
     
+}
+p{
+    color: aqua;
+    background-color: black;
 }
